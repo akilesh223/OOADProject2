@@ -1,0 +1,80 @@
+---------OPEN ZOO---------------
+ZooAnnouncer : "Zookeeper is opening Zoo"
+Open Zoo
+-----------ROLL CALL ANIMALS--------------
+ZooAnnouncer : "Zookeeper is roll calling Animals"
+Cooper is Present
+Chandler is not Present
+Danny is Present
+Debby is not Present
+Elda is Present
+Emma is not Present
+Howard is Present
+Hofstedar is not Present
+Lilly is Present
+Lita is not Present
+Rachel is Present
+Ross is not Present
+Tony is Present
+Timmy is not Present
+Wendy is Present
+William is not Present
+---------WAKEUP ANIMALS----------
+ZooAnnouncer : "Zookeeper is waking Animals"
+Cooper is waking up
+Chandler is waking up
+Danny is waking up
+Debby is waking up
+Elda is waking up
+Emma is waking up
+Howard is waking up
+Hofstedar is waking up
+Lilly is waking up
+Lita is waking up
+Rachel is waking up
+Ross is waking up
+Tony is waking up
+Timmy is waking up
+Wendy is waking up
+William is waking up
+------------EXERCISE ANIMALS----------
+ZooAnnouncer : "Zookeeper is exercising Animals"
+Cooper is roaming quietly
+Chandler is roaming quietly
+Danny is roaming  aggressively
+Debby is roaming  aggressively
+Elda is roaming slowly
+Emma is roaming slowly
+Howard is roaming slowly
+Hofstedar is roaming slowly
+Lilly is roaming quietly
+Lita is roaming quietly
+Rachel is roaming slowly
+Ross is roaming slowly
+Tony is roaming quietly
+Timmy is roaming quietly
+Wendy is roaming  aggressively
+William is roaming  aggressively
+-------FEED ANIMALS------------
+ZooAnnouncer : "Zookeeper is feeding Animals"
+Cooper is eating light meat
+Chandler is eating light meat
+Danny is eating meat
+Debby is eating meat
+Elda is eating grass
+Emma is eating grass
+Howard is eating grass
+Hofstedar is eating grass
+Lilly is eating light meat
+Lita is eating light meat
+Rachel is eating grass
+Ross is eating grass
+Tony is eating light meat
+Timmy is eating light meat
+Wendy is eating meat
+William is eating meat
+-----------CAT RANDOM BEHAVIOUR----------
+Cooper is eating light meat
+-------SHUTTING DOWN-----------
+ZooAnnouncer : "Zookeeper is shutting down"
+Shut Down Zoo
